@@ -1,0 +1,15 @@
+.logo{
+    color:var(--blue);
+    font-family: var(--logo-font);
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    margin-right: 93px;
+
+    &__black{
+        color:var(--black);
+    }
+    &__white{
+        color:var(--white);
+    }
+}
